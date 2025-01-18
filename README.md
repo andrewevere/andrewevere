@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewevere)](https://github.com/andrewevere/github-readme-stats)
+
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=success&label=LeetCode&query=solved&url=https://leetcode-stat-api.herokuapp.com/{andrewevere})
+
+[![LeetCode Card](https://leetcode.card.workers.dev/?username=andrewevere)](https://leetcode.com/andrewevere)
