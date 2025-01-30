@@ -18,7 +18,7 @@ Hello! I'm Andrew Zhou, a graduate student pursuing my **Master of Science in Ap
 
 - **Master of Science in Applied Computer Science**
   - *Fairleigh Dickinson University, Vancouver*
-  - *May 2023 – Dec 2024 (Expected)*
+  - *May 2023 – Dec 2024*
   - **GPA:** 3.80/4.00
   - **Awards:** 2024 Academic Performance Award
 
@@ -35,7 +35,7 @@ Hello! I'm Andrew Zhou, a graduate student pursuing my **Master of Science in Ap
 **Project Budget Management and Cost Information Management**
 - *Nanjing Luneng Real Estate Co., Ltd.*
 - *Jul 2021 – Jan 2023*
-  - **SQL Server Database Management:** Managed and updated project information using SQL Server, synchronizing 78 contracts totaling 160 million yuan, achieving a **30% time savings**.
+  - **SQL Server Database Management:** Managed and updated project information using SQL Server, synchronizing 78 contracts totalling 160 million yuan, achieving a **30% time savings**.
   - **Financial Application Development:** Developed an investment model for a project with a total investment of 20 million yuan. Implemented cross-table data linkage through VBA and SQL, achieving an estimated profit rate of **15%**.
 
 ## 🌐 Projects
