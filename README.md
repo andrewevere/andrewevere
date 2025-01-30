@@ -48,7 +48,7 @@ Hello! I'm Andrew Zhou, a graduate student pursuing my **Master of Science in Ap
 - Conducted user testing sessions, refining the interface design based on feedback, resulting in user satisfaction ratings averaging **80%**.
 - Employed **Agile and Scrum methodologies**, actively participating in sprint planning, daily stand-ups, and code reviews within a team of 5 developers.
 - Enhanced debugging skills by resolving complex CSS issues and solving intricate JavaScript challenges, maintaining an error rate below **5%**.
-- **[Repository Link](#)** (If available)
+- **[Repository Link](#)** 
 
 ### Full-Stack Developer | **Financial Analytics Platform**
 *May 2024 – August 2024*
